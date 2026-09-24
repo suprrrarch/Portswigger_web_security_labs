@@ -9,7 +9,7 @@ To solve the lab, retrieve the contents of the /etc/passwd file.
 
 This lab contains a path traversal vulnerability in the display of product images.
 
-# Solution:
+## 📝 Methodology 
 
 Access lab ----->   open image in new tab ------------> capture request in burp -------->
 
