@@ -10,6 +10,7 @@ write-ups from PortSwigger Web Security Academy.
 - 💉 SQL Injection
 - 🕸️ Cross-Site Scripting
 - 🔑 Authentication
+- 🔓 Web LLM Attacks
 - 🚪 Access Control
 - 📂 Path Traversal
 - 📤 File upload Vulnerabilities
