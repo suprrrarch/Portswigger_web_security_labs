@@ -1,2 +1,36 @@
-# Portswigger_web_security_labs
-Practical PortSwigger Web Security Academy lab write-ups covering web vulnerabilities, exploitation techniques, Burp Suite workflows, and penetration-testing methodologies.
+A collection of my practical web application security lab
+write-ups from PortSwigger Web Security Academy.
+
+## Progress
+
+- ✅ 80+ labs completed
+- 🔐 Web application security
+- 🛠️ Burp Suite
+- 🌐 HTTP/HTTPS
+- 💉 SQL Injection
+- 🕸️ Cross-Site Scripting
+- 🔑 Authentication
+- 🚪 Access Control
+- 📂 Path Traversal
+- 📤 File upload Vulnerabilities
+- 🔄 CSRF
+- 📡 SSRF
+- 📦 XXE
+- ⚙️ Business Logic
+- 🔌 API Security
+
+## Methodology
+
+For each lab, I document:
+
+1. Vulnerability identification
+2. Request/response analysis
+3. Testing methodology
+4. Exploitation technique
+5. Impact
+6. Key lessons learned
+
+## Goal
+
+To develop practical web penetration-testing and
+vulnerability research skills through hands-on labs.
