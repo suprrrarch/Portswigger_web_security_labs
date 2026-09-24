@@ -13,6 +13,7 @@ write-ups from PortSwigger Web Security Academy.
 - 🚪 Access Control
 - 📂 Path Traversal
 - 📤 File upload Vulnerabilities
+- 🖥️ OS Command Injection 
 - 🔄 CSRF
 - 📡 SSRF
 - 📦 XXE
