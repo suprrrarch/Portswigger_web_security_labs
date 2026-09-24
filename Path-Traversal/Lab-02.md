@@ -1,4 +1,4 @@
-# 📂 Path Traversal - Lab 01
+# 📂 Path Traversal - Lab 02
 File Path traversal sequences blocked with absolute path bypass.
 
 ## 🎯 Objective
