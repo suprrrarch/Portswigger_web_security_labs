@@ -3,7 +3,7 @@ write-ups from PortSwigger Web Security Academy.
 
 ## Progress
 
-- ✅ 80+ labs completed
+- ✅ 100+ labs completed
 - 🔐 Web application security
 - 🛠️ Burp Suite
 - 🌐 HTTP/HTTPS
