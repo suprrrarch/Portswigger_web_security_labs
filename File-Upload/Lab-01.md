@@ -1,5 +1,5 @@
 ## 📤 File-Upload vulnerability lab-01
-Remote Code Execution via web shell upoad
+Remote Code Execution via web shell upload
 
 
 ## 🎯 Objective
